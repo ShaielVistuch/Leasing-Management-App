@@ -1,5 +1,5 @@
 # Leasing-Management-App
-Software engineering final project. In collaboration with Yaniv, Sammy, Ilya, Tomer, and Ori.
+Software engineering course final project. In collaboration with Yaniv, Sammy, Ilya, Tomer, and Ori.
 The workflow of the system:
  <br/>
 ![image](https://github.com/ShaielVistuch/Leasing-Management-App/assets/133270551/046f76d0-86da-4857-806a-ece5ac6bb449)
